@@ -3,5 +3,10 @@
 "lastName": "Румянцев",
 "age": 30,
 "pets": "null",
-"pay": "695 dollars"
+"pay": "695 dollars",
+"favoriteMovie": "the Fast and the furios",
+"favoriteSeries": "moonlighting",
+"favoriteFood": "блины",
+"favoriteTimeOfYear": "autumn",
+"country": "Spain"
 }
