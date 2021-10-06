@@ -2,6 +2,7 @@
 <person>
     <givenName>Илья</givenName>
     <familyName>Румянцев</familyName>
+    <age>30</age>
     <pets>Null</pets>
-    <future desired salary>695$</future desired salary>
+    <pay>695$</pay>
 </person>
