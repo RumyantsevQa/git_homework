@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+  <?xml version="1.0" encoding="UTF-8"?>
 <person>
-    <givenName>Илья</givenName>
-    <familyName>Румянцев</familyName>
+    <givenname>Илья</givenName>
+    <familyname>Румянцев</familyName>
     <age>30</age>
     <pets>Null</pets>
     <pay>695$</pay>
+    <favoritemovie>theFastAndTheFurios</favoritemovie>
+    <favoriteSeries>Moonlighting</favoriteseries>
+    <favoriteFood>блины</favoritefood>
+    <favoritetimeofyear>autumn</favoritetimeofyear>
+    <country><Spain</country>
 </person>
